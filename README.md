@@ -1,2 +1,2 @@
 # Ultra-Snek-Game
-Just a snake game
+IN PROGRESS. Just a snake game
